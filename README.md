@@ -108,6 +108,8 @@ cd stream-frontend
 npm install
 npm run dev
 
+```
+
 
 Future Improvements
 
@@ -120,6 +122,8 @@ Thumbnail generation
 Cloud storage (AWS S3)
 
 CDN integration
+
+Screenshots
 
 👨‍💻 Author
 
