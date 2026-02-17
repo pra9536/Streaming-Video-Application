@@ -134,7 +134,7 @@ CDN integration
 ### Video Player
 ![Login](screenshots/photo2.png)
 
-
+---
 
 ### 👨‍💻 Author
 
