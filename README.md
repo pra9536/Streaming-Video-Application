@@ -125,6 +125,14 @@ CDN integration
 
 ### Screenshots
 
+### Video Upload
+![Dashboard](screenshots/photo1.png)
+
+### Video Player
+![Login](screenshots/photo2.png)
+
+
+
 ### 👨‍💻 Author
 
 Prateek Yadav
