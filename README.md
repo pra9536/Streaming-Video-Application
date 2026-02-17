@@ -111,7 +111,7 @@ npm run dev
 ```
 
 
-Future Improvements
+### Future Improvements
 
 JWT Authentication
 
@@ -123,8 +123,8 @@ Cloud storage (AWS S3)
 
 CDN integration
 
-Screenshots
+### Screenshots
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Prateek Yadav
